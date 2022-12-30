@@ -351,8 +351,12 @@
 @media screen and (max-width: 540px) {
     .sec-1 .info {
         margin: auto;
-        width: 411px;
+        width: 360px;
 
         transition: 1s;
+    }
+
+    .sec-1 .info .form a {
+        font-size: 1em;
     }
 }
